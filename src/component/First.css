@@ -1,0 +1,86 @@
+/* TopProfessionals.css */
+
+/* Center the text and adjust its style */
+.text-center {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Container for images and buttons */
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  
+  /* Left and right images */
+  .left-images, .right-images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Images style */
+  .left-images img, .right-images img {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+  }
+  
+  /* Button styles */
+  .grey-button {
+    background-color: #6c757d; /* Grey background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    border-radius: 5px; /* Adjust border radius as needed */
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* CSS for the black button */
+  .black-button {
+    background-color: #000; /* Black background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    border-radius: 5px; /* Adjust border radius as needed */
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Add hover styles if desired */
+  .grey-button:hover {
+    background-color: #495057; /* Darker grey on hover */
+  }
+  
+  .black-button:hover {
+    background-color: #333; /* Darker black on hover */
+  }
+
+  
+  .top-text-p {
+    margin-left: 0px;
+    font-family: Helvetica;
+    font-size: 15px;
+    margin-top: 50px;
+    text-align: center;
+}
+  
+  
+  
+  
+  
+  .grey-button:hover {
+    background-color: #555; /* Darker grey on hover */
+  }
+  
+  
+  
+  .black-button:hover {
+    background-color: #333; /* Darker black on hover */
+  }
+  

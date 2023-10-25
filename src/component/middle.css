@@ -1,0 +1,29 @@
+.middle-section {
+    padding: 40px 0;
+  }
+  
+  .middle-card {
+    background-color: #efefef;
+    border: none;
+  }
+  
+  .middle-heading {
+    font-size: 40px;
+  }
+  
+  .middle-description {
+    font-size: 20px;
+  }
+  
+  .home-learn {
+    color: white;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .middle-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
